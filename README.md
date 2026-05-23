@@ -1,5 +1,5 @@
 # Quantum Space-Time Network Simulation 🌌💻
-**Autore:** Devid Castellani (Ricercatore Indipendente - Livigno, IT)
+**Autore:** Devid Castellani (Ricercatore Indipendente - IT)
 **Co-Autore Computazionale:** Gemini AI (Google)
 
 Benvenuti in questo progetto di Gravità Quantistica Informatica. Questo repository contiene il modello matematico e il codice di simulazione per testare l'ipotesi dell'**Emergenza Informatica dello Spaziotempo**.
